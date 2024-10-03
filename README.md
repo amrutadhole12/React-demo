@@ -1,4 +1,4 @@
 # React-demo
-Auther - Amruta
+Auther - Amruta Dhole
 <br>
 React code
